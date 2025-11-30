@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: [Department of Computer Science](https://cs.rochester.edu) @ [University of Rochester](https://rochester.edu), NY, USA
+subtitle: <a href='#'>Affiliations</a> [Department of Computer Science](https://cs.rochester.edu) @ [University of Rochester](https://rochester.edu), NY, USA
 
 profile:
   align: right
