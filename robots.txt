@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://my-name-is-william-ur.github.io/website/sitemap.xml
+Sitemap: https://junjiezhao.net/website/sitemap.xml
