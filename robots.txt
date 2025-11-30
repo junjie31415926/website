@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://junjiezhao.net/website/sitemap.xml
+Sitemap: https://junjiezhao.net/sitemap.xml
